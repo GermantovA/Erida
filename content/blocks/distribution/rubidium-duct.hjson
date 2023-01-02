@@ -2,7 +2,6 @@ category: distribution
 type: StackConveyor
 
 research: simple-core
-alwaysUnlocked: true
 
 health: 10
 underBullets: true
