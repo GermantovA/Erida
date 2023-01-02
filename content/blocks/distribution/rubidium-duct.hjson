@@ -1,7 +1,7 @@
 category: distribution
 type: StackConveyor
 
-research: simple-code
+research: simple-core
 alwaysUnlocked: true
 
 health: 10
