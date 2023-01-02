@@ -1,0 +1,18 @@
+Type: CoreBlock
+health: 500
+itemCapacity: 250
+size: 2
+category: effect
+unitType: particle
+unitCapModifier: 4
+thrusterLength: 15
+requirements: [
+  copper/100
+]
+research: {
+    root: true
+    name: erida
+    requiresUnlock: false
+    planet: erida
+}
+alwaysUnlocked: true
