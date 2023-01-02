@@ -6,19 +6,19 @@ mesh: {
   color1: efcdb8
   color2: 4b4d4b
   colorScale: 2
-  radius: 0.2
+  radius: 0.8
   octaves: 15
   persistence: 1
   scale: 1
   mag: 1.5
 }
-sectorSize: 3
+sectorSize: 1
 generator: {
 
 }
 orbitSpacing: 12
 orbitRadius: 25
-raradius: 1.2
+raradius: 0.8
 minZoom: 1
 maxZoom: 4
 drawOrbit: true
