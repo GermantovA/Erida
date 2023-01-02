@@ -29,8 +29,8 @@ weapons: [
     targetBuildings: true
     autoTarget: false
     controllable: true
-    laserColor: accent
-    healColor: accent
+    laserColor: efcdb8
+    healColor: efcdb8
 
     bullet: {
       maxRange: 60
