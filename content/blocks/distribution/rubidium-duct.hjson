@@ -2,6 +2,7 @@ category: distribution
 type: StackConveyor
 
 research: simple-core
+researchCostMultiplier: 0
 
 health: 10
 underBullets: true
