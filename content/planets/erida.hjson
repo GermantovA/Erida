@@ -18,7 +18,7 @@ generator: {
 }
 orbitSpacing: 12
 orbitRadius: 25
-raradius: 0.8
+raradius: 1.2
 minZoom: 1
 maxZoom: 4
 drawOrbit: true
