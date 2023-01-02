@@ -12,7 +12,7 @@ mesh: {
   scale: 1
   mag: 1.5
 }
-sectorSize: 1
+sectorSize: 2.3
 generator: {
 
 }
