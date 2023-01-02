@@ -1,0 +1,9 @@
+type: Wall
+health: 75
+category: defense
+requirements: [
+  rubidium/6
+]
+research: simple-core
+alwaysUnlocked: true
+researchCostMultiplier: 0.5
