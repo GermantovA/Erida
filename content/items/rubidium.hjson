@@ -1,3 +1,4 @@
 cost: 1
 color: 3f3f4d
 research: simple-core
+alwaysUnlcoked : true
