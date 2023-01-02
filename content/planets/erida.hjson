@@ -10,9 +10,9 @@ mesh: {
   octaves: 15
   persistence: 1
   scale: 1
-  mag: 1.5
+  mag: 1
 }
-sectorSize: 2.3
+sectorSize: 3
 generator: {
 
 }
