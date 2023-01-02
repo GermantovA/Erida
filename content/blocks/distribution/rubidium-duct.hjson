@@ -1,0 +1,19 @@
+category: distribution
+type: StackConveyor
+
+research: simple-code
+alwaysUnlocked: true
+
+health: 10
+underBullets: true
+solid: false
+
+size: 1
+requirements: [
+ rubidium/2
+ ]
+
+itemCapacity: 5
+outputRouter: false
+
+speed: 0.065
