@@ -5,7 +5,7 @@ type: BurstDrill
 category: production
 research: rubidium-cliff-crusher
 tier: 2
-drillTime: 1000
+drillTime: 625
 itemCapacity: 100
 consumes: {
   liquids: [
