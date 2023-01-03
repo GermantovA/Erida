@@ -1,4 +1,4 @@
-type: Junction
+type: ItemBridge
 health: 15
 speed: 3
 capacity: 4
