@@ -4,9 +4,9 @@ requirements: [
 category: crafting
 type: GenericCrafter
 craftEffect: smeltsmoke
-outputItem: leticen/1
+outputItem: leticen/5
 craftTime: 150
-size: 2
+size: 3
 hasPower: false
 drawer: {
     type: DrawMulti
