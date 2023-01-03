@@ -1,15 +1,15 @@
 planet: erida
-health: 150
+health: 300
 size: 5
 type: BurstDrill
 category: production
 research: rubidium-cliff-crusher
 tier: 2
-drillTime: 1500
+drillTime: 1000
 itemCapacity: 100
 consumes: {
   liquids: [
-    slag/3
+    slag/1.5
   ]
 }
 requirements: [
