@@ -1,0 +1,18 @@
+type: BurstDrill
+size: 1
+health: 150
+drillTime: 1690
+tier: 2
+category: production
+research: core-mini
+researchCostMultiplier: 0.5
+requirements: [
+  rubidium/120
+  leticen/40
+]
+liquidCapacity: 20
+consumes: [
+	liquid: [
+		liquid: slag
+		amount: 0.3
+]
