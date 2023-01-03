@@ -1,0 +1,15 @@
+type: WallCrafter
+size: 2
+health: 40
+drillTime: 200
+attribute: sand
+rotateSpeed: 2
+category: production
+research: simple-core
+researchCostMultiplier: 0
+requirements: [
+  rubidium/15
+]
+consumes: [
+		power: 0.08
+]
