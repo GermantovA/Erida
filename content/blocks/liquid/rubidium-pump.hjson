@@ -1,6 +1,6 @@
 type: Pump
 size: 2
-pumpAmount: 0.8
+pumpAmount: 0.4
 squareSprite: false
 placeableLiquid: true
 liquidCapacity: 2
