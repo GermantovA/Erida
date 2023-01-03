@@ -9,8 +9,8 @@ drillTime: 1500
 itemCapacity: 100
 consumes: {
   slag/3
-}
+  }
 requirements: [
   rubidium/150
   leticen/60
-]
+  ]
