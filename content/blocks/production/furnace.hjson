@@ -24,4 +24,4 @@ consumes: {
     ]
 }
 research: sand-filter
-researchCostMultiplier: 0.3
+researchCostMultiplier: 0.6
