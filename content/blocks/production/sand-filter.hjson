@@ -1,0 +1,28 @@
+requirements: [
+  rubidium/30
+]
+category: crafting
+type: GenericCrafter
+craftEffect: smeltsmoke
+outputItem: rubidium/3
+craftTime: 150
+size: 1
+hasPower: false
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+    ]
+}
+ambientSound: smelter
+ambientSoundVolume: 0.15
+consumes: {
+  items: {
+    items: [
+      sand/6
+    ]
+  }
+}
+research: simple-core
