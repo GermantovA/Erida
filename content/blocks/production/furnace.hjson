@@ -1,0 +1,29 @@
+requirements: [
+  rubidium/50
+]
+category: crafting
+type: GenericCrafter
+craftEffect: smeltsmoke
+outputItem: scrap/5
+craftTime: 150
+size: 1
+hasPower: false
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+    ]
+}
+ambientSound: smelter
+ambientSoundVolume: 0.15
+consumes: {
+  items: {
+    liquids: [
+      slag/1
+    ]
+  }
+}
+research: sand-filter
+researchCostMultiplier: 0
