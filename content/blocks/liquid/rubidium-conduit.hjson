@@ -1,0 +1,11 @@
+type: Conduit
+leaks: true
+health: 10
+requirements: [
+  rubidium/2
+]
+liquidCapacity: 5
+liquidPressure: 2
+placeableLiquid: true
+category: liquid
+research: rubidium-pump
