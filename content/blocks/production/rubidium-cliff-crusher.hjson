@@ -1,7 +1,7 @@
 type: WallCrafter
 size: 2
 health: 40
-drillTime: 200
+drillTime: 100
 attribute: sand
 rotateSpeed: 2
 category: production
