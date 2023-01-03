@@ -3,12 +3,7 @@ health: 150
 size: 5
 type: BurstDrill
 category: production
-research: 
-requirements: [
- Nickel/250
- cadmium/200
- oxygen/100
-]
+research: rubidium-cliff-crusher
 tier: 2
 drillTime: 1500
 itemCapacity: 100
