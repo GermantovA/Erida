@@ -8,7 +8,9 @@ tier: 2
 drillTime: 1500
 itemCapacity: 100
 consumes: {
-  slag/3
+  liquids: [
+    slag/3
+  ]
 }
 requirements: [
   rubidium/150
