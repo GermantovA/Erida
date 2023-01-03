@@ -1,0 +1,21 @@
+type: Junction
+health: 15
+speed: 3
+capacity: 4
+requirements: [
+  leticen/5
+  rubidium/10
+]
+update: true
+solid: true
+hasPower: false
+expanded: true
+itemCapacity: 10
+posConfig: true
+configurable: true
+hasItems: true
+unloadable: false
+group: transportation
+
+category: distribution
+research: rubidium-duct
