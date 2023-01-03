@@ -5,7 +5,7 @@ category: crafting
 type: GenericCrafter
 craftEffect: smeltsmoke
 outputItem: rubidium/3
-craftTime: 150
+craftTime: 50
 size: 1
 hasPower: false
 drawer: {
