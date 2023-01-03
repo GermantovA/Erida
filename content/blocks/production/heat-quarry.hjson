@@ -12,7 +12,8 @@ requirements: [
 ]
 liquidCapacity: 20
 consumes: [
-	liquids: [
-		slag/1
-	]
+	liquid: [
+		liquid: slag
+		amount: 3
+                ]
 ]
