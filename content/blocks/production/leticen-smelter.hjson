@@ -1,6 +1,5 @@
 requirements: [
   rubidium/100
-  scrap/20
 ]
 category: crafting
 type: GenericCrafter
