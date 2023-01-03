@@ -22,7 +22,6 @@ consumes: {
   liquids: [
     slag/1
     ]
-  }
 }
 research: sand-filter
 researchCostMultiplier: 0
