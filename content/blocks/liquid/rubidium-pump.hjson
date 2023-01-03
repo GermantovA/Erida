@@ -1,0 +1,11 @@
+type: Pump
+size: 2
+pumpAmount: 0.8
+squareSprite: false
+placeableLiquid: true
+liquidCapacity: 2
+requirements: [
+    rubidium/30
+]
+category: liquid
+research: simple-core
