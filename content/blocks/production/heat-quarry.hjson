@@ -4,11 +4,11 @@ health: 150
 drillTime: 1500
 tier: 2
 category: production
-research: core-mini
+research: rubidium-cliff-crusher
 researchCostMultiplier: 0.5
 requirements: [
-  rubidium/120
-  leticen/40
+  rubidium/150
+  leticen/60
 ]
 liquidCapacity: 20
 consumes: [
