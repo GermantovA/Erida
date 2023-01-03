@@ -6,7 +6,7 @@ type: GenericCrafter
 craftEffect: smeltsmoke
 outputItem: leticen/1
 craftTime: 150
-size: 1
+size: 2
 hasPower: false
 drawer: {
     type: DrawMulti
