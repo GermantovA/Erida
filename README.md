@@ -7,5 +7,4 @@ In development...
 
 Languages:
 
-English
-Русский
+English,Русский
