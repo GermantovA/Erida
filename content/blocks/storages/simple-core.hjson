@@ -7,7 +7,7 @@ unitType: particle
 unitCapModifier: 4
 thrusterLength: 15
 requirements: [
-  rubidium/0
+  rubidium/150
 ]
 research: {
     root: true
