@@ -15,5 +15,5 @@ consumes: [
 	liquid: [
 		liquid: slag
 		amount: 3
-                ]
-	]
+		]
+	  ]
