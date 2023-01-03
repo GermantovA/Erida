@@ -20,7 +20,7 @@ ambientSound: smelter
 ambientSoundVolume: 0.15
 consumes: {
   items: {
-    liquids: [
+    items: [
       slag/1
     ]
   }
