@@ -26,3 +26,4 @@ consumes: {
   }
 }
 research: simple-core
+researchCostMultiplier: 0
