@@ -19,9 +19,8 @@ drawer: {
 ambientSound: smelter
 ambientSoundVolume: 0.15
 consumes: {
-  items: {
-    liquids: [
-      slag/1
+  liquids: [
+    slag/1
     ]
   }
 }
