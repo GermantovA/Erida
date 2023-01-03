@@ -1,0 +1,10 @@
+type: Router
+health: 15
+speed: 3
+capacity: 4
+requirements: [
+  leticen/5
+  rubidium/10
+] 
+category: distribution
+research: rubidium-duct
