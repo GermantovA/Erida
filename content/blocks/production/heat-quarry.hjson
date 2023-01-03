@@ -1,7 +1,7 @@
 type: BurstDrill
-size: 1
+size: 5
 health: 150
-drillTime: 1690
+drillTime: 1500
 tier: 2
 category: production
 research: core-mini
