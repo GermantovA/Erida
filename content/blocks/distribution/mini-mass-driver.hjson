@@ -11,7 +11,7 @@ research: rubidium-duct
 
 range: 80
 rotateSpeed: 0.5
-translation: 80
+translation: 7
 minDistribute: 10
 knockback: 4
 reloadTime: 75
