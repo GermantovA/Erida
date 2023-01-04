@@ -5,7 +5,7 @@ requirements: [
 category: crafting
 type: GenericCrafter
 craftEffect: smeltsmoke
-outputItem: sand/5
+outputItem: sand/10
 craftTime: 75
 size: 3
 hasPower: true
