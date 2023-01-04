@@ -1,0 +1,45 @@
+type: ConsumeGenerator
+size: 2
+powerProduction: 0.5
+consumes: {
+    items: [
+        loelo/5
+    ]
+    liquids: [
+        slag/1
+    ]
+}
+requirements: [
+    rubidium/35
+    leticen/15
+    loelo/25
+]
+category: power
+research: energy-node
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+        {
+            type: DrawRegion
+            suffix: -bottom
+        }
+        {
+            type: DrawRegion
+            spinSprite: true
+            rotateSpeed: 4
+            suffix: -rotator
+        }
+        {
+            type: DrawRegion
+            suffix: -top
+        }
+        {
+            type: DrawGlowRegion
+            suffix: -glow
+            color: 5b7d4a
+        }
+    ]
+}
