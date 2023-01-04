@@ -1,4 +1,4 @@
-category: power
+egory: power
 type: BeamNode
 
 research: simple-core
@@ -13,6 +13,7 @@ requirements: [
 hasPower: true
 hasItems: false
 hasLiquids: false
-laserColor: 70a6bb
+laserColor1: aad6e8
+laserColor2: 70a6bb
 
 range: 4
