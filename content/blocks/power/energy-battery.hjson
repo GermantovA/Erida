@@ -1,0 +1,19 @@
+type: battery
+baseExplosiveness: 2
+fullLightColor: 00aa00
+emptyLightColor: 000000
+hasPower: true
+outputsPower: true
+consumesPower: true
+hasItems: false
+canOverdrifff: false
+health: 20
+consumes: {
+    powerBuffered: 250
+}
+requirements: [
+    rubidium/25
+    loelo/10
+]
+category: power
+research: energy-node
