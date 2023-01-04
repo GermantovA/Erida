@@ -9,9 +9,9 @@ requirements: [
 category: distribution
 research: rubidium-duct
 
-range: 20
+range: 40
 rotateSpeed: 0.1
-translation: 7
+translation: 40
 minDistribute: 10
 knockback: 4
 reloadTime: 75
