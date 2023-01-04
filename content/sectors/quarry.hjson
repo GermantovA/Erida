@@ -2,5 +2,7 @@ sector: 30
 planet: erida
 captureWave: 5
 difficulty: 1
-research: rubidium-pump
-research: debris
+research: {
+  rubidium-pump
+  debris
+  }
