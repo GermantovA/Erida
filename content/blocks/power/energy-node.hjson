@@ -13,5 +13,6 @@ requirements: [
 hasPower: true
 hasItems: false
 hasLiquids: false
+laserColor: 70a6bb
 
 range: 4
