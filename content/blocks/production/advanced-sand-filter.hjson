@@ -10,7 +10,6 @@ outputItem: rubidium/15
 craftTime: 37.5
 size: 2
 hasPower: true
-power: 0.8
 drawer: {
     type: DrawMulti
     drawers: [
@@ -22,6 +21,7 @@ drawer: {
 ambientSound: smelter
 ambientSoundVolume: 0.15
 consumes: {
+  power: 1.5
   items: {
     items: [
       sand/6
