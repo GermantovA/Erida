@@ -1,0 +1,17 @@
+category: power
+type: BeamNode
+
+research: simple-core
+
+health: 20
+size: 1
+requirements: [
+ rubidium/1
+ leticen/3
+ ]
+ 
+hasPower: true
+hasItems: false
+hasLiquids: false
+
+range: 9
