@@ -9,7 +9,7 @@ requirements: [
 category: distribution
 research: rubidium-duct
 
-range: 7
+range: 20
 rotateSpeed: 0.04
 translation: 7
 minDistribute: 10
