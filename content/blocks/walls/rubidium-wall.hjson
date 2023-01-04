@@ -5,5 +5,4 @@ requirements: [
   rubidium/6
 ]
 research: simple-core
-alwaysUnlocked: true
 researchCostMultiplier: 0.5
