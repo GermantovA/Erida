@@ -15,9 +15,6 @@ translation: 80
 minDistribute: 10
 knockback: 4
 reloadTime: 75
-shootEffect: shootBig2
-smokeEffect: shootBigSmoke2
-recieveEffect: mineBig
 shake:3
 
 update: true
