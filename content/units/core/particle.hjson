@@ -12,7 +12,7 @@ engineOffset: 3
 buildSpeed: 1
 buildBeamOffset: 1
 mineSpeed: 5
-mineTier: 1
+mineTier: 0
 outlineColor: 000000
 weapons: [
   {
