@@ -19,3 +19,9 @@ shootEffect: shootBig2
 smokeEffect: shootBigSmoke2
 recieveEffect: mineBig
 shake:3
+
+update: true
+solid: true
+posConfig: true
+configurable: true
+hasItems: true
