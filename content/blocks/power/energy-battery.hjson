@@ -1,6 +1,6 @@
 type: battery
 baseExplosiveness: 2
-fullLightColor: 00aa00
+fullLightColor: a5e38b
 emptyLightColor: 000000
 hasPower: true
 outputsPower: true
