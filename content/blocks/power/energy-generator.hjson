@@ -3,7 +3,7 @@ size: 2
 powerProduction: 0.15
 consumes: {
     items: [
-        loelo/5
+        loelo/1
     ]
     liquids: [
         slag/1
