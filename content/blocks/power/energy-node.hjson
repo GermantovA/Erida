@@ -7,7 +7,7 @@ health: 20
 size: 1
 requirements: [
  rubidium/1
- leticen/3
+ loelo/5
  ]
  
 hasPower: true
