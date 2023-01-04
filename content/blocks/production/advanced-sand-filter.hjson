@@ -10,6 +10,7 @@ outputItem: rubidium/15
 craftTime: 37.5
 size: 2
 hasPower: true
+power: 0.8
 drawer: {
     type: DrawMulti
     drawers: [
@@ -25,7 +26,6 @@ consumes: {
     items: [
       sand/6
     ]
-  power: 0.8
   }
 }
 research: sand-filter
