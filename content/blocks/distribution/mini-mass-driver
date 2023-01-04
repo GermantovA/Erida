@@ -1,0 +1,21 @@
+type: MassDriver
+health: 30
+speed: 3
+capacity: 4
+requirements: [
+  leticen/5
+  rubidium/10
+] 
+category: distribution
+research: rubidium-duct
+
+range: 7
+rotateSpeed: 0.04
+translation: 7
+minDistribute: 10
+knockback: 4
+reloadTime: 75
+shootEffect: shootBig2
+smokeEffect: shootBigSmoke2
+recieveEffect: mineBig
+shake:3
