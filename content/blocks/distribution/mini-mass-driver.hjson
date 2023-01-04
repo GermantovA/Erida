@@ -10,7 +10,7 @@ category: distribution
 research: rubidium-duct
 
 range: 20
-rotateSpeed: 0.04
+rotateSpeed: 0.1
 translation: 7
 minDistribute: 10
 knockback: 4
