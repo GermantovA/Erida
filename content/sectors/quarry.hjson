@@ -2,7 +2,7 @@ sector: 30
 planet: erida
 captureWave: 5
 difficulty: 1
-parent: debris
 research: debris
 research: rubidium-pump
+parent: debris
 alwaysUnlocked: true
