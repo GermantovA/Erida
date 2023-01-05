@@ -1,7 +1,7 @@
 requirements: [
   rubidium/250
   leticen/200
-  foringor/100
+  loelo/100
 ]
 category: crafting
 type: GenericCrafter
