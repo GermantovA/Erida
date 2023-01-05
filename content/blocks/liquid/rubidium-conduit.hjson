@@ -1,6 +1,6 @@
 type: Conduit
 leaks: true
-health: 10
+health: 200
 requirements: [
   rubidium/2
 ]
