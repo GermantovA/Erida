@@ -1,0 +1,10 @@
+type: MemoryBlock
+category: logic
+size: 1
+health: 50
+memoryCapacity: 8
+requirements: [
+  rubidium/50
+  foringor/20
+  ]
+research: weak-processor
