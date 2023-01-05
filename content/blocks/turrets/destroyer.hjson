@@ -44,7 +44,7 @@ ammoTypes: {
   frontColor: ffffff
   backColor: 656e83
   
-  damage: 30
+  damage: 60
   splashDamage: 15
   splashDamageRadius: 22
   
