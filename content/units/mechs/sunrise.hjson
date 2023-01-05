@@ -2,8 +2,8 @@ type: mech
 outlineColor: 000000
 mechLegColor: 3e3641
 
-health: 25
-armor: 2
+health: 125
+armor: 4
 hitSize: 9
 
 speed: 1.2
@@ -37,7 +37,7 @@ weapons: [
    width: 5
    height: 7
    
-   damage: 2
+   damage: 10
    
    speed: 2.7
    lifetime: 45
