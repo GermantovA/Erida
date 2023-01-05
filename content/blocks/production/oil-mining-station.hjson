@@ -8,7 +8,7 @@ type: GenericCrafter
 craftEffect: smeltsmoke
 outputLiquid: oil/1.5
 craftTime: 10
-size: 4
+size: 3
 hasPower: true
 drawer: {
     type: DrawMulti
