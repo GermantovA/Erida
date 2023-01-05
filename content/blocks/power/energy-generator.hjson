@@ -16,6 +16,7 @@ requirements: [
 ]
 category: power
 research: energy-node
+health: 200
 drawer: {
     type: DrawMulti
     drawers: [
