@@ -3,7 +3,7 @@ requirements: [
   leticen/200
   loelo/100
 ]
-category: crafting
+category: production
 type: GenericCrafter
 craftEffect: smeltsmoke
 outputLiquid: oil/1.5
