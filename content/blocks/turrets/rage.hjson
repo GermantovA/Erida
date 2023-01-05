@@ -22,28 +22,28 @@ shoot: {
 
 ammoTypes: {
     rubidium: {
-        damage: 1
+        damage: 5
         speed: 6
         height: 15
         width: 10
         lifetime: 20
     }
     leticen: {
-        damage: 2
+        damage: 10
         speed: 4
         height: 15
         width: 10
         lifetime: 20
     }
     loelo: {
-        damage: 1
+        damage: 5
         speed: 10
         height: 15
         width: 10
         lifetime: 20
     }
     foringor: {
-        damage: 4
+        damage: 20
         speed: 4
         height: 15
         width: 10
