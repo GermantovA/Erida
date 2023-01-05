@@ -2,7 +2,7 @@ type: Wall
 health: 275
 category: defense
 requirements: [
-  loelo/6
+  foringor/6
 ]
 research: loelo-wall
 researchCostMultiplier: 0.5
