@@ -1,5 +1,7 @@
 type: flying
 health: 150
+research: sunrise
+researchCostMultiplier: 0.2
 controller: BuilderAI
 defaultController: BuilderAI
 isEnemy: false
