@@ -1,0 +1,15 @@
+Type: CoreBlock
+health: 1250
+itemCapacity: 500
+size: 3
+category: effect
+unitType: quantum
+unitCapModifier: 6
+thrusterLength: 20
+requirements: [
+  rubidium/250
+  leticen/150
+  loelo/100
+  foringor/200
+]
+research: simple-core
