@@ -1,0 +1,45 @@
+category: turret
+type: ContinuousTurret
+
+research: rage
+
+health: 400
+size: 3
+requirements: [
+ rumidium/125
+ leticen/50
+ foringor/100
+ ]
+ 
+hasPower: false
+hasItems: false
+hasLiquids: true
+
+liquidCapacity: 20
+
+range: 208
+shootCone: 360
+
+targetAir: true
+targetGround: true
+
+rotateSpeed: 1.6
+
+cooldownTime: 130
+shootY: 2
+
+consumes: {
+ liquid: {
+  liquid: slag
+  amount: 0.4
+  }
+ }
+ 
+shootSound: none
+loopSound: electricHum
+shootType: {
+ type: PointLaserBulletType
+ sprite: defender-laser
+ damage: 5
+ collidesGround: false
+ }
