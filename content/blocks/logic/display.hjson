@@ -1,0 +1,10 @@
+type: LogicDisplay
+category: logic
+size: 2
+health: 50
+displaySize: 160
+requirements: [
+  rubidium/100
+  foringor/40
+  ]
+research: weak-processor
