@@ -9,6 +9,7 @@ craftEffect: smeltsmoke
 outputItem: rubidium/10
 craftTime: 25
 size: 2
+health: 250
 hasPower: true
 drawer: {
     type: DrawMulti
