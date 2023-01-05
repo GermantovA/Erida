@@ -1,0 +1,8 @@
+type: Wall
+health: 787
+category: defense
+requirements: [
+  leticen/24
+]
+research: leticen-wall
+researchCostMultiplier: 0.5
