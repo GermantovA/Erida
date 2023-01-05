@@ -1,4 +1,5 @@
 type: Pump
+health: 100
 size: 2
 pumpAmount: 0.4
 squareSprite: false
