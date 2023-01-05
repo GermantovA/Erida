@@ -1,5 +1,6 @@
 type: Wall
 health: 562
+size: 2
 category: defense
 requirements: [
   rubidium/24
