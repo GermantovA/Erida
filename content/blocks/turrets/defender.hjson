@@ -19,6 +19,7 @@ liquidCapacity: 20
 
 range: 208
 shootCone: 360
+outlineColor: 000000
 
 targetAir: true
 targetGround: true
