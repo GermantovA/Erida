@@ -3,7 +3,7 @@ type: BeamNode
 
 research: simple-core
 
-health: 20
+health: 35
 size: 1
 requirements: [
  rubidium/1
