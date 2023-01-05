@@ -1,6 +1,6 @@
 type: SolarGenerator
-size: 2
-powerProduction: 0.15
+size: 1
+powerProduction: 0.05
 requirements: [
     rubidium/35
     leticen/30
@@ -8,4 +8,4 @@ requirements: [
 ]
 category: power
 research: energy-node
-health: 200
+health: 100
