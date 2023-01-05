@@ -1,0 +1,61 @@
+category: turret
+type: ItemTurret
+
+research: rage
+
+health: 350
+size: 3
+requirements: [
+ rubidium/125
+ loelo/100
+ foringor/75
+ ]
+ 
+hasPower: false
+hasItems: true
+hasLiquids: false
+
+itemCapacity: 20
+
+range: 60
+shootCone: 20
+
+targetAir: false
+targetGround: true
+
+rotateSpeed: 1.2
+
+reload: 155
+cooldownTime: 130
+shootY: 6
+shootSound: laser
+
+shoot: {
+ shots: 3
+ shotDelay: 8
+ }
+
+ammoTypes: {
+ foringor: {
+  type: ArtilleryBulletType
+  width: 15
+  height: 19
+  frontColor: ffffff
+  backColor: 656e83
+  
+  damage: 30
+  splashDamage: 15
+  splashDamageRadius: 22
+  
+  speed: 5
+  lifetime: 54
+  
+  trailColor: cc8ea1
+  trailLength: 30
+  trailWidth: 4
+  
+  hitColor: cc8ea1
+  hitEffect: hitBulletColor
+  despawnEffect: hitBulletColor
+  }
+ }
