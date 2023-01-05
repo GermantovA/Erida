@@ -1,5 +1,5 @@
 Type: CoreBlock
-health: 500
+health: 1000
 itemCapacity: 250
 size: 2
 category: effect
