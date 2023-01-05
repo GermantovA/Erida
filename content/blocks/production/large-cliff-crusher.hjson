@@ -1,0 +1,16 @@
+type: WallCrafter
+size: 3
+health: 300
+drillTime: 62
+attribute: sand
+rotateSpeed: 2
+category: production
+research: cliff-crusher
+researchCostMultiplier: 0.3
+requirements: [
+  rubidium/45
+  leticen/10
+]
+consumes: [
+		power: 0.08
+]
