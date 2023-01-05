@@ -2,7 +2,7 @@ type: LogicBlock
 category: logic
 size: 1
 health: 125
-instructionsPerTick: 0.2
+instructionsPerTick: 1
 requirements: [
   rubidium/50
   foringor/20
