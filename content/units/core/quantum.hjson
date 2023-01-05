@@ -2,7 +2,7 @@ type: flying
 flying: true
 controller: BuilderAI
 hitSize: 5
-health: 100
+health: 175
 speed: 2
 accel: 0.05
 drag: 0.05
