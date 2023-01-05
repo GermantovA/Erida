@@ -28,7 +28,7 @@ weapons: [
     inaccuracy: 9
     bullet: {
       type: MissileBulletType
-      damage: 50
+      damage: 25
       splashDamage: 13
       splashDamageRadius: 20
       sideAngle: 45
