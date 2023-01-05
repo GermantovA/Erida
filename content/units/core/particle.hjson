@@ -4,7 +4,7 @@ controller: BuilderAI
 isEnemy: false
 targetPriority: -2
 hitSize: 5
-health: 35
+health: 100
 speed: 2
 accel: 0.05
 drag: 0.05
