@@ -1,5 +1,6 @@
 type: Wall
 health: 787
+size: 2
 category: defense
 requirements: [
   leticen/24
