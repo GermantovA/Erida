@@ -1,0 +1,8 @@
+type: Wall
+health: 562
+category: defense
+requirements: [
+  rubidium/24
+]
+research: rubidium-wall
+researchCostMultiplier: 0.5
