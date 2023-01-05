@@ -2,6 +2,7 @@ category: turret
 type: ItemTurret
 
 research: rage
+researchCostMultiplier: 0.2
 outlineColor: 000000
 
 health: 350
