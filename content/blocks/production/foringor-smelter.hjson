@@ -9,7 +9,7 @@ type: GenericCrafter
 health: 1000
 craftEffect: smeltsmoke
 outputItem: foringor/5
-craftTime: 1000
+craftTime: 150
 size: 3
 hasPower: true
 drawer: {
