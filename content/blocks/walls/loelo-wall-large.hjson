@@ -1,5 +1,6 @@
 type: Wall
 health: 1125
+size: 2
 category: defense
 requirements: [
   loelo/24
