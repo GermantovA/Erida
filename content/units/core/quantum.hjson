@@ -1,0 +1,29 @@
+type: flying
+flying: true
+controller: BuilderAI
+hitSize: 5
+health: 100
+speed: 2
+accel: 0.05
+drag: 0.05
+engineOffset: 3
+buildSpeed: 1
+buildBeamOffset: 1
+mineSpeed: 5
+mineTier: 1
+outlineColor: 000000
+weapons: [
+  {
+    top: false
+    x: 1
+    y: 0
+    reload: 10
+    recoil: 3
+    bullet: {
+      type: basicBulletType
+      damage: 2
+      speed: 3
+      lifetime: 40
+    }
+  }
+]
