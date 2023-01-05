@@ -18,6 +18,7 @@ drawer: {
 }
 ambientSound: smelter
 ambientSoundVolume: 0.15
+health: 100
 consumes: {
   liquids: [
     slag/1
