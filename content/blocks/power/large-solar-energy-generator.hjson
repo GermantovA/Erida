@@ -1,0 +1,11 @@
+type: SolarGenerator
+size: 3
+powerProduction: 0.5
+requirements: [
+    rubidium/350
+    leticen/200
+    loelo/250
+]
+category: power
+research: solar-energy-generator
+health: 500
