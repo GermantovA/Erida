@@ -1,4 +1,5 @@
 type: LogicBlock
+category: logic
 size: 1
 health: 125
 instructionsPerTick: 0.2
