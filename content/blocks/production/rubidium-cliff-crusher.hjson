@@ -1,6 +1,6 @@
 type: WallCrafter
 size: 2
-health: 40
+health: 100
 drillTime: 100
 attribute: sand
 rotateSpeed: 2
