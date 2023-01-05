@@ -1,0 +1,8 @@
+type: Wall
+health: 1237
+category: defense
+requirements: [
+  foringor/24
+]
+research: foringor-wall
+researchCostMultiplier: 0.5
