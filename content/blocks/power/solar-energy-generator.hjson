@@ -8,4 +8,5 @@ requirements: [
 ]
 category: power
 research: energy-node
+researchCostMultiplier: 0.2
 health: 100
