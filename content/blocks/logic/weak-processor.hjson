@@ -1,6 +1,7 @@
 type: LogicBlock
 size: 1
 health: 125
+instructiosPerTick: 12
 requirements: [
   rubidium/50
   foringor/20
