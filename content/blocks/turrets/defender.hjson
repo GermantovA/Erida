@@ -42,5 +42,5 @@ shootType: {
  type: PointLaserBulletType
  sprite: erida-defender-laser
  damage: 5
- collidesGround: false
+ collidesGround: true
  }
