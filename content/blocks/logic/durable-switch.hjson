@@ -7,3 +7,4 @@ requirements: [
   foringor/5
   ]
 research: weak-processor
+researchCostMultiplier: 0.1
