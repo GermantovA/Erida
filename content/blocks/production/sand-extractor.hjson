@@ -8,6 +8,7 @@ craftEffect: smeltsmoke
 outputItem: sand/10
 craftTime: 25
 size: 3
+health: 250
 hasPower: true
 drawer: {
     type: DrawMulti
