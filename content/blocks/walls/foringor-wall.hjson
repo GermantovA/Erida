@@ -1,5 +1,5 @@
 type: Wall
-health: 250
+health: 275
 category: defense
 requirements: [
   loelo/6
