@@ -45,7 +45,7 @@ ammoTypes: {
   backColor: 656e83
   
   damage: 60
-  splashDamage: 15
+  splashDamage: 45
   splashDamageRadius: 22
   
   speed: 5
