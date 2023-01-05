@@ -7,7 +7,7 @@ outputsPower: true
 consumesPower: true
 hasItems: false
 canOverdrifff: false
-health: 20
+health: 40
 consumes: {
     powerBuffered: 250
 }
