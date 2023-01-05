@@ -8,3 +8,4 @@ requirements: [
   foringor/40
   ]
 research: weak-processor
+researchCostMultiplier: 0.1
