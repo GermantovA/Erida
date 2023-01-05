@@ -51,7 +51,7 @@ ammoTypes: {
     }
 }
 requirements: [
-    rubdium/30
+    rubidium/30
     foringor/10
 ]
 category: turret
