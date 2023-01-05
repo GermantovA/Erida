@@ -43,3 +43,4 @@ requirements: [
 ]
 category: turret
 research: rage
+researchCostMultiplier: 0.2
