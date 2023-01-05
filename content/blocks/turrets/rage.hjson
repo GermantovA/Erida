@@ -1,0 +1,58 @@
+type: ItemTurret
+reload: 45
+shootCone: 20
+rotateSpeed: 10
+targetGround: true
+targetAir: true
+range: 120
+recoil: 1.3
+size: 2
+health: 100
+AmmoPerShot: 4
+shootSound: shootBig
+shootShake: 1
+shootY: 3
+outlineColor: 000000
+
+shoot: {
+    shots: 4
+    spread: 0
+    shotDelay: 3
+}
+
+ammoTypes: {
+    rubidium: {
+        damage: 1
+        speed: 6
+        height: 15
+        width: 10
+        lifetime: 20
+    }
+    leticen: {
+        damage: 2
+        speed: 4
+        height: 15
+        width: 10
+        lifetime: 20
+    }
+    loelo: {
+        damage: 1
+        speed: 10
+        height: 15
+        width: 10
+        lifetime: 20
+    }
+    foringor: {
+        damage: 4
+        speed: 4
+        height: 15
+        width: 10
+        lifetime: 20
+    }
+}
+requirements: [
+    rubdium/30
+    foringor/10
+]
+category: turret
+research: core-mini
