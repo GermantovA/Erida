@@ -3,3 +3,8 @@ size: 2
 type: CanvasBlock
 health: 100
 category: logic
+requirements: [
+  rubidium/50
+  foringor/30
+  ]
+research: weak-processor
