@@ -2,7 +2,7 @@ type: LogicDisplay
 category: logic
 size: 3
 health: 275
-displaySize: 80
+displaySize: 82
 requirements: [
   rubidium/100
   foringor/40
