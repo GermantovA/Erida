@@ -5,7 +5,7 @@ drillTime: 62
 attribute: sand
 rotateSpeed: 2
 category: production
-research: cliff-crusher
+research: rubidium-cliff-crusher
 researchCostMultiplier: 0.3
 requirements: [
   rubidium/45
