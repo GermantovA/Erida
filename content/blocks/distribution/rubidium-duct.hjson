@@ -4,7 +4,7 @@ type: StackConveyor
 research: simple-core
 researchCostMultiplier: 0
 
-health: 10
+health: 15
 underBullets: true
 solid: false
 
