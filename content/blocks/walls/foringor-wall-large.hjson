@@ -1,5 +1,6 @@
 type: Wall
 health: 1237
+size: 2
 category: defense
 requirements: [
   foringor/24
