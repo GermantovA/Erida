@@ -1,4 +1,4 @@
-type: LogicBlock
+type: MessageBlock
 category: logic
 size: 1
 health: 50
