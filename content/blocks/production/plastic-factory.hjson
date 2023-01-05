@@ -1,0 +1,35 @@
+requirements: [
+  rubidium/100
+  leticen/100
+  loelo/50
+]
+category: crafting
+type: GenericCrafter
+health: 300
+craftEffect: smeltsmoke
+outputItem: plastic/5
+craftTime: 500
+size: 3
+hasPower: true
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+    ]
+}
+ambientSound: smelter
+ambientSoundVolume: 0.15
+consumes: {
+  power: 0.5
+  items: [
+    rubidium/10
+    loelo/10
+    ]
+  liquids: [
+    oil/3
+    ]
+}
+research: advanced-sand-filter
+researchCostMultiplier: 0.3
