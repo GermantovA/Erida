@@ -1,0 +1,8 @@
+type: Wall
+health: 1125
+category: defense
+requirements: [
+  loelo/24
+]
+research: loelo-wall
+researchCostMultiplier: 0.5
