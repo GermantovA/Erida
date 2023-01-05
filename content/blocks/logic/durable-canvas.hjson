@@ -1,0 +1,5 @@
+canvasSize: 16
+size: 2
+type: CanvasBlock
+health: 100
+category: logic
