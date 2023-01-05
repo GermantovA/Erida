@@ -1,5 +1,5 @@
 type: Wall
-health: 75
+health: 125
 category: defense
 requirements: [
   rubidium/6
