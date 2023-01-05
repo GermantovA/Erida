@@ -1,0 +1,8 @@
+type: Wall
+health: 250
+category: defense
+requirements: [
+  loelo/6
+]
+research: leticen-wall
+researchCostMultiplier: 0.5
