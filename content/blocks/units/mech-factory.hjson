@@ -7,7 +7,7 @@ requirements: [
   foringor/10
 ]
 researchCostMultiplier: 0.2
-size: 2
+size: 3
 configurable: false
 plans: [
   {
