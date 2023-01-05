@@ -6,7 +6,7 @@ requirements: [
 category: crafting
 type: GenericCrafter
 craftEffect: smeltsmoke
-outputLiquid: oil/0.5
+outputLiquid: oil/1.5
 craftTime: 10
 size: 4
 hasPower: true
