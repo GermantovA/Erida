@@ -8,4 +8,5 @@ requirements: [
 ]
 category: power
 research: solar-energy-generator
+researchCostMultiplier: 0.3
 health: 500
