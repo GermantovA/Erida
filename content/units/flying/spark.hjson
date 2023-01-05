@@ -1,0 +1,43 @@
+type: flying
+health: 150
+controller: BuilderAI
+defaultController: BuilderAI
+isEnemy: false
+mineWalls: true
+mineFloor: true
+flying: true
+buildSpeed: 0.86
+accel: 0.04
+drag: 0.12
+mineSpeed: 1
+mineTier: 1
+speed: 2
+rotateSpeed: 2
+armor: 1
+itemCapacity: 5
+outlineColor: 000000
+weapons: [
+  {
+    name: none
+    x: 0
+    y: 0
+    mirror: false
+    shootEffect: sparkShoot
+    smokeEffect: shootSmallSmoke
+    reload: 40
+    inaccuracy: 9
+    bullet: {
+      type: MissileBulletType
+      damage: 60
+      splashDamage: 13
+      splashDamageRadius: 20
+      sideAngle: 45
+      sideWidth: 4
+      sideLength: 4
+      hitEffect: blastExplosion
+      despawnEffect: blastExplosion
+      lifeTime: 190
+      shootSound: missile
+}
+}
+]
