@@ -1,4 +1,4 @@
-type: Payload-conveyor
+type: PayloadConveyor
 health: 45
 speed: 3
 size: 2
