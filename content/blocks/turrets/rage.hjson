@@ -56,3 +56,4 @@ requirements: [
 ]
 category: turret
 research: simple-core
+researchCostMultiplier: 0.2
