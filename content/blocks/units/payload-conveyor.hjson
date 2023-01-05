@@ -1,4 +1,4 @@
-type: Router
+type: Payload-conveyor
 health: 45
 speed: 3
 size: 2
