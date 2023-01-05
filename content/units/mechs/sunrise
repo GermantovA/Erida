@@ -1,0 +1,52 @@
+type: mech
+outlineColor: 000000
+mechLegColor: 3e3641
+
+health: 25
+armor: 2
+hitSize: 9
+
+speed: 1.2
+rotateSpeed: 2.6
+accel: 0.15
+
+itemCapacity: 0
+
+weapons: [
+ {
+  type: Weapon
+  name: sunrise-weapon
+  
+  top: false
+  x: 0
+  y: 0
+  shootY: 2
+  shootX: 4.2
+  
+  mirror: true
+  rotate: false
+  shootCone: 10
+  inaccuracy: 0
+  reload: 26
+  targetInterval: 1
+  targetSwitchInterval: 1
+  cooldownTime: 150
+  
+  bullet: {
+   type: BasicBulletType
+   width: 5
+   height: 7
+   
+   damage: 2
+   
+   speed: 2.7
+   lifetime: 45
+   
+   trailWidth: 1
+   trailLength: 5
+   }
+  }
+ ]
+
+
+research: mech-factory
