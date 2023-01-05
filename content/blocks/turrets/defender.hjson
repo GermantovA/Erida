@@ -41,6 +41,6 @@ loopSound: electricHum
 shootType: {
  type: PointLaserBulletType
  sprite: erida-defender-laser
- damage: 5
+ damage: 15
  collidesGround: true
  }
