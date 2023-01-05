@@ -1,0 +1,8 @@
+type: Wall
+health: 175
+category: defense
+requirements: [
+  leticen/6
+]
+research: rubidium-wall
+researchCostMultiplier: 0.5
