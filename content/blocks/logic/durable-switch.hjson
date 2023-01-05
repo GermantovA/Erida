@@ -1,0 +1,9 @@
+type: SwitchBlock
+category: logic
+size: 1
+health: 50
+requirements: [
+  rubidium/20
+  foringor/5
+  ]
+research: weak-processor
