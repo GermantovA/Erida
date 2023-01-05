@@ -50,4 +50,4 @@ weapons: [
 
 
 research: mech-factory
-researchCostMultiplier: 0
+researchCostMultiplier: 0.05
