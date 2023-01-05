@@ -1,5 +1,5 @@
 type: MassDriver
-health: 30
+health: 90
 speed: 3
 capacity: 4
 requirements: [
