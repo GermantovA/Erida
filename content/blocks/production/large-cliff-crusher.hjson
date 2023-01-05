@@ -9,8 +9,8 @@ research: cliff-crusher
 researchCostMultiplier: 0.3
 requirements: [
   rubidium/45
-  leticen/10
+  leticen/30
 ]
 consumes: [
-		power: 0.08
+  power: 0.08
 ]
