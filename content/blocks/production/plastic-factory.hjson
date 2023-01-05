@@ -9,7 +9,7 @@ health: 300
 craftEffect: smeltsmoke
 outputItem: plastic/5
 craftTime: 500
-size: 3
+size: 4
 hasPower: true
 drawer: {
     type: DrawMulti
