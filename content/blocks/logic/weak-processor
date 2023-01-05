@@ -1,0 +1,8 @@
+type: LogicBlock
+size: 1
+health: 125
+requirements: [
+  rubidium/50
+  foringor/20
+  ]
+research: simple-core
