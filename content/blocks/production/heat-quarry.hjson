@@ -1,5 +1,5 @@
 planet: erida
-health: 300
+health: 1000
 size: 5
 type: BurstDrill
 category: production
