@@ -1,0 +1,26 @@
+type: UnitFactory
+category: units
+research: sunrise
+requirements: [
+  rubidium/150
+  leticen/50
+  foringor/10
+]
+researchCostMultiplier: 0.2
+size: 3
+configurable: false
+plans: [
+  {
+    unit: spark
+    time: 1000
+    requirements: [
+      rubidium/50
+      leticen/20
+      loelo/15
+      foringor/45
+    ]
+  }
+]
+consumes: {
+  power: 0.25
+}
