@@ -2,6 +2,7 @@ category: turret
 type: ContinuousTurret
 
 research: rage
+researchCostMultiplier: 0.2
 
 health: 400
 size: 3
