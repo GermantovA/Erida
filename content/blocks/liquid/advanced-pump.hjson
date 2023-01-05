@@ -1,0 +1,13 @@
+type: Pump
+health: 500
+size: 3
+pumpAmount: 0.8
+squareSprite: false
+placeableLiquid: true
+liquidCapacity: 8
+requirements: [
+    rubidium/100
+    foringor/50
+]
+category: liquid
+research: rubidium-pump
