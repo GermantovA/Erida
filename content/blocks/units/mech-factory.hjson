@@ -1,6 +1,6 @@
 type: UnitFactory
 category: units
-research: simple-core
+research: sunrise
 requirements: [
   rubidium/150
   leticen/50
