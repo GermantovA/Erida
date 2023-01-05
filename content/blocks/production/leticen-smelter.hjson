@@ -3,6 +3,7 @@ requirements: [
 ]
 category: crafting
 type: GenericCrafter
+health: 300
 craftEffect: smeltsmoke
 outputItem: leticen/5
 craftTime: 150
