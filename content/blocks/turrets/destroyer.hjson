@@ -2,6 +2,7 @@ category: turret
 type: ItemTurret
 
 research: rage
+outlineColor: 000000
 
 health: 350
 size: 3
@@ -17,7 +18,7 @@ hasLiquids: false
 
 itemCapacity: 20
 
-range: 60
+range: 135
 shootCone: 20
 
 targetAir: false
