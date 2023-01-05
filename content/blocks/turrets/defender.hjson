@@ -6,7 +6,7 @@ research: rage
 health: 400
 size: 3
 requirements: [
- rumidium/125
+ rubidium/125
  leticen/50
  foringor/100
  ]
