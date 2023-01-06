@@ -4,8 +4,9 @@ size: 2
 health: 350
 instructionsPerTick: 32
 requirements: [
-  rubidium/50
-  foringor/20
+  rubidium/200
+  foringor/80
+  loelo/40
   ]
 research: weak-processor
 researchCostMultiplier: 0.1
