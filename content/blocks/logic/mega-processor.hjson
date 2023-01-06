@@ -1,6 +1,6 @@
 type: LogicBlock
 category: logic
-size: 1
+size: 3
 health: 125
 hasPower: true
 instructionsPerTick: 100
