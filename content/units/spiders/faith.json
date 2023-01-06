@@ -23,7 +23,7 @@
     "reload": 12,
     "name": "faith-weapon",
     "ejectEffect": "none",
-    "x": 7,
+    "x": 5,
     "shootSound": "flame",
     "bullet": {
       "type": "LiquidBulletType",
