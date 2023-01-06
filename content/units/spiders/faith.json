@@ -7,7 +7,7 @@
   "targetAir": false,
   "health": 200,
   "legCount": 4,
-  "legLength": 9,
+  "legLength": 30,
   "legForwardScl": 0.6,
   "legMoveSpace": 1.4,
   "hovering": true,
