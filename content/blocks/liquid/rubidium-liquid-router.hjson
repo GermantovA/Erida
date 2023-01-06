@@ -2,7 +2,7 @@ type: LiquidRouter
 health: 25
 size: 1
 placeableLiquid: true
-liquidCapacity: 2
+liquidCapacity: 60
 requirements: [
     rubidium/4
 ]
