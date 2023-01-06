@@ -1,4 +1,4 @@
-type: Pump
+type: LiquidRouter
 health: 25
 size: 1
 placeableLiquid: true
