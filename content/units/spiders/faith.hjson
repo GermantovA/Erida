@@ -6,6 +6,7 @@ controller: BuilderAI
 defaultController: BuilderAI
 isEnemy: false
 mineWalls: true
+legLength: 18
 mineFloor: true
 flying: false
 buildSpeed: 0.86
@@ -26,13 +27,13 @@ weapons: [
     mirror: false
     shootEffect: sparkShoot
     smokeEffect: shootSmallSmoke
-    reload: 1
+    reload: 3
     inaccuracy: 9
     bullet: {
       type: MissileBulletType
-      damage: 1
-      splashDamage: 1
-      splashDamageRadius: 1
+      damage: 3
+      splashDamage: 2
+      splashDamageRadius: 2
       sideAngle: 45
       sideWidth: 4
       sideLength: 4
