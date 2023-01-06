@@ -14,7 +14,7 @@ hasItems: false
 hasLiquids: true
 hasPower: false
 
-range: 3
+range: 4
 
 underBullets: true
 solid: true
