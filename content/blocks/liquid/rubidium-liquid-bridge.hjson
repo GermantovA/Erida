@@ -1,0 +1,24 @@
+category: liquid
+type: LiquidBridge
+
+research: rubidium-conduit
+
+size: 1
+health: 40
+requirements:[
+ rubidium/40
+ leticen/10
+]
+
+hasItems: false
+hasLiquids: true
+hasPower: false
+
+range: 3
+
+underBullets: true
+solid: true
+
+fadeIn: false
+moveArrows: true
+arrowSpacing: 3
