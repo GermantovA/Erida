@@ -2,8 +2,6 @@ type: legs
 health: 300
 research: spark
 researchCostMultiplier: 0.2
-controller: BuilderAI
-defaultController: BuilderAI
 isEnemy: true
 mineWalls: true
 legLength: 18
