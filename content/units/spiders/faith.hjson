@@ -4,7 +4,7 @@ research: spark
 researchCostMultiplier: 0.2
 isEnemy: true
 mineWalls: true
-legLength: 18
+legLength: 13
 mineFloor: true
 flying: false
 buildSpeed: 0.86
