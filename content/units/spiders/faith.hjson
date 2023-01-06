@@ -1,0 +1,52 @@
+type: legs
+outlineColor: 000000
+
+health: 100
+armor: 8
+hitSize: 9
+
+speed: 1.7
+rotateSpeed: 2.6
+accel: 0.15
+
+itemCapacity: 0
+
+weapons: [
+ {
+  type: Weapon
+  name: faith-weapon
+  
+  top: false
+  x: 0
+  y: 0
+  shootY: 2
+  shootX: 4.2
+  
+  mirror: true
+  rotate: false
+  shootCone: 10
+  inaccuracy: 0
+  reload: 7
+  targetInterval: 1
+  targetSwitchInterval: 1
+  cooldownTime: 300
+  
+  bullet: {
+   type: BasicBulletType
+   width: 5
+   height: 7
+   
+   damage: 6
+   
+   speed: 2.7
+   lifetime: 45
+   
+   trailWidth: 1
+   trailLength: 5
+   }
+  }
+ ]
+
+
+research: simple-core
+researchCostMultiplier: 0.2
