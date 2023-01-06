@@ -5,7 +5,7 @@ researchCostMultiplier: 0.2
 isEnemy: true
 mineWalls: true
 legLength: 13
-legCount: 6
+legCount: 3
 mineFloor: true
 flying: false
 buildSpeed: 0.86
