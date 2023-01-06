@@ -1,11 +1,15 @@
 type: LogicBlock
 category: logic
 size: 1
+hasPower: true
 health: 125
 instructionsPerTick: 8
 requirements: [
   rubidium/50
   foringor/20
   ]
+consumes: {
+  power: 1
+  }
 research: simple-core
 researchCostMultiplier: 0.1
