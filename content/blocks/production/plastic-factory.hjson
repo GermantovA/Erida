@@ -7,8 +7,8 @@ category: crafting
 type: GenericCrafter
 health: 300
 craftEffect: smeltsmoke
-outputItem: plastic/5
-craftTime: 100
+outputItem: plastic/10
+craftTime: 50
 size: 4
 hasPower: true
 drawer: {
@@ -25,7 +25,7 @@ consumes: {
   power: 0.5
   items: [
     rubidium/10
-    loelo/10
+    loelo/1
     ]
   liquids: [
     oil/3
