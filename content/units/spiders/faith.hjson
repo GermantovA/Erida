@@ -27,13 +27,13 @@ weapons: [
     mirror: false
     shootEffect: sparkShoot
     smokeEffect: shootSmallSmoke
-    reload: 3
+    reload: 4
     inaccuracy: 9
     bullet: {
       type: MissileBulletType
-      damage: 3
-      splashDamage: 2
-      splashDamageRadius: 2
+      damage: 5
+      splashDamage: 4
+      splashDamageRadius: 4
       sideAngle: 45
       sideWidth: 4
       sideLength: 4
