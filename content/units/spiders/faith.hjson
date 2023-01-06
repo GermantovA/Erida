@@ -4,7 +4,7 @@ research: spark
 researchCostMultiplier: 0.2
 controller: BuilderAI
 defaultController: BuilderAI
-isEnemy: false
+isEnemy: true
 mineWalls: true
 legLength: 18
 mineFloor: true
