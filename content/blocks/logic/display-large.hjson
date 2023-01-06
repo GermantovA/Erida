@@ -1,0 +1,14 @@
+type: LogicDisplay
+category: logic
+size: 6
+health: 1200
+displaySize: 178
+requirements: [
+  rubidium/500
+  foringor/350
+  leticen/200
+  loelo/100
+  
+  ]
+research: display
+researchCostMultiplier: 0.1
