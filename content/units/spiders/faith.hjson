@@ -12,7 +12,7 @@ accel: 0.04
 drag: 0.12
 mineSpeed: 1
 mineTier: 1
-speed: 2
+speed: 0.5
 rotateSpeed: 2
 armor: 1
 itemCapacity: 5
