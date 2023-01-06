@@ -1,0 +1,13 @@
+type: LogicBlock
+category: logic
+size: 1
+health: 125
+instructionsPerTick: 100
+requirements: [
+  rubidium/500
+  foringor/200
+  loelo/100
+  leticen/50
+  ]
+research: processor
+researchCostMultiplier: 0.1
