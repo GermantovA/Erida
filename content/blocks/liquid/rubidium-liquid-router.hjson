@@ -1,0 +1,10 @@
+type: Pump
+health: 25
+size: 1
+placeableLiquid: true
+liquidCapacity: 2
+requirements: [
+    rubidium/4
+]
+category: liquid
+research: rubidium-conduit
