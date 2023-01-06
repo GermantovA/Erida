@@ -27,16 +27,16 @@ weapons: [
     mirror: false
     shootEffect: sparkShoot
     smokeEffect: shootSmallSmoke
-    reload: 4
+    reload: 15
     inaccuracy: 9
     bullet: {
       type: MissileBulletType
-      damage: 5
-      splashDamage: 4
+      damage: 9
+      splashDamage: 5
       splashDamageRadius: 4
       sideAngle: 45
       sideWidth: 4
-      sideLength: 4
+      sideLength: 10
       hitEffect: blastExplosion
       despawnEffect: blastExplosion
       lifeTime: 190
