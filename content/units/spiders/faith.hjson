@@ -26,10 +26,10 @@ weapons: [
   rotate: false
   shootCone: 10
   inaccuracy: 0
-  reload: 7
+  reload: 14
   targetInterval: 1
   targetSwitchInterval: 1
-  cooldownTime: 300
+  cooldownTime: 500
   
   bullet: {
    type: BasicBulletType
@@ -41,12 +41,12 @@ weapons: [
    speed: 2.7
    lifetime: 45
    
-   trailWidth: 1
+   trailWidth: 3
    trailLength: 5
    }
   }
  ]
 
 
-research: simple-core
+research: spark
 researchCostMultiplier: 0.2
