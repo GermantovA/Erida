@@ -1,0 +1,12 @@
+type: MemoryBlock
+category: logic
+size: 2
+health: 300
+memoryCapacity: 32
+requirements: [
+  rubidium/100
+  foringor/40
+  loelo/30
+  ]
+research: mini-memory-storage
+researchCostMultiplier: 0.1
