@@ -1,6 +1,6 @@
 type: SolarGenerator
 size: 3
-powerProduction: 0.5
+powerProduction: 0.8
 requirements: [
     rubidium/350
     leticen/200
