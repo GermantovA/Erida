@@ -5,7 +5,7 @@ researchCostMultiplier: 0.2
 isEnemy: true
 mineWalls: true
 legLength: 13
-legCount: 3
+legCount: 4
 mineFloor: true
 flying: false
 buildSpeed: 0.86
@@ -13,9 +13,9 @@ accel: 0.04
 drag: 0.12
 mineSpeed: 1
 mineTier: 1
-speed: 0.5
+speed: 0.7
 rotateSpeed: 2
-armor: 1
+armor: 2
 itemCapacity: 5
 outlineColor: 000000
 weapons: [
