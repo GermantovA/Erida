@@ -10,10 +10,7 @@ requirements: [
   loelo/40
   ]
 consumes: {
-  power: 0.5
-  items: [
-    foringor/5
-    ]
+  power: 2
   }
 research: weak-processor
 researchCostMultiplier: 0.1
