@@ -4,6 +4,7 @@ outlineColor: 000000
 health: 100
 armor: 8
 hitSize: 9
+legExtension: 3
 
 speed: 1.7
 rotateSpeed: 2.6
