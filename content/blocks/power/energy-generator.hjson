@@ -1,6 +1,6 @@
 type: ConsumeGenerator
 size: 2
-powerProduction: 0.15
+powerProduction: 0.25
 consumes: {
     items: [
         loelo/1
