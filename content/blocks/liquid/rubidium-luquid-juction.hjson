@@ -1,4 +1,4 @@
-type: LiquidJuction
+type: LiquidJunction
 health: 25
 size: 1
 placeableLiquid: true
