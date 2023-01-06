@@ -2,6 +2,7 @@ type: LogicBlock
 category: logic
 size: 1
 health: 125
+hasPower: true
 instructionsPerTick: 100
 requirements: [
   rubidium/500
@@ -9,5 +10,14 @@ requirements: [
   loelo/100
   leticen/50
   ]
+consumes: {
+  power: 1
+  items: [
+    foringor/10
+    ]
+  liquids: [
+    slag/3
+    ]
+  }
 research: processor
 researchCostMultiplier: 0.1
