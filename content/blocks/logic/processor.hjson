@@ -1,0 +1,11 @@
+type: LogicBlock
+category: logic
+size: 2
+health: 350
+instructionsPerTick: 32
+requirements: [
+  rubidium/50
+  foringor/20
+  ]
+research: weak-processor
+researchCostMultiplier: 0.1
