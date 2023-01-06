@@ -27,7 +27,7 @@ weapons: [
     mirror: false
     shootEffect: sparkShoot
     smokeEffect: shootSmallSmoke
-    reload: 15
+    reload: 25
     inaccuracy: 9
     bullet: {
       type: MissileBulletType
