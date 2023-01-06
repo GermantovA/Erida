@@ -2,11 +2,18 @@ type: LogicBlock
 category: logic
 size: 2
 health: 350
+hasPower: true
 instructionsPerTick: 32
 requirements: [
   rubidium/200
   foringor/80
   loelo/40
   ]
+consumes: {
+  power: 0.5
+  items: [
+    foringor/5
+    ]
+  }
 research: weak-processor
 researchCostMultiplier: 0.1
