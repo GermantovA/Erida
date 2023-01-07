@@ -7,7 +7,7 @@ mesh: {
   color2: 4b4d4b
   colorScale: 2
   radius: 0.9
-  octaves: 4
+  octaves: 2
   persistence: 1
   scale: 1
   mag: 1.5
