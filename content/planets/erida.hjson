@@ -1,18 +1,18 @@
 mesh: {
   type: NoiseMesh
   planet: erida
-  seed: 55
+  seed: 92
   divisions: 5
   color1: efcdb8
   color2: 4b4d4b
-  colorScale: 2
+  colorScale: 1.5
   radius: 0.9
-  octaves: 2
+  octaves: 1.9
   persistence: 1
   scale: 1
   mag: 1.5
 }
-sectorSize: 2
+sectorSize: 2.4
 generator: {
 
 }
