@@ -5,11 +5,11 @@ mesh: {
   divisions: 4
   color1: efcdb8
   color2: 4b4d4b
-  colorScale: 0.2
+  colorScale: 1
   radius: 0.8
   octaves: 4
   persistence: 1
-  scale: 1
+  scale: 2
   mag: 1
 }
 sectorSize: 2
