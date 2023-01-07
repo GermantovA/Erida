@@ -1,14 +1,14 @@
 mesh: {
   type: NoiseMesh
   planet: erida
-  seed: 14
-  divisions: 4
+  seed: 143
+  divisions: 4.5
   color1: efcdb8
   color2: 4b4d4b
   colorScale: 1.5
-  radius: 0.9
-  octaves: 1
-  persistence: 3
+  radius: 0.8
+  octaves: 5
+  persistence: 1
   scale: 1
   mag: 1.5
 }
@@ -18,7 +18,7 @@ generator: {
 }
 orbitSpacing: 12
 orbitRadius: 25
-raradius: 0.1
+raradius: 0.8
 minZoom: 1
 maxZoom: 4
 drawOrbit: true
@@ -29,8 +29,8 @@ updateLighting: true
 sectorSeed: 0
 bloom: false
 visible: true
-atmosphereColor: efcdb8
-iconColor: efcdb8
+atmosphereColor: d7ff7c
+iconColor: 323a19
 hasAtmosphere: true
 allowSectorInvasion: false
 allowWaveSimulation: true
