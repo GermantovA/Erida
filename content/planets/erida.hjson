@@ -9,8 +9,8 @@ mesh: {
   radius: 0.9
   octaves: 4
   persistence: 1
-  scale: 2
-  mag: 1
+  scale: 1
+  mag: 1.5
 }
 sectorSize: 2
 generator: {
