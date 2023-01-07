@@ -5,7 +5,7 @@ mesh: {
   divisions: 4
   color1: efcdb8
   color2: 4b4d4b
-  colorScale: 2
+  colorScale: 1
   radius: 0.8
   octaves: 4
   persistence: 1
