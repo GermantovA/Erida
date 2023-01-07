@@ -8,7 +8,7 @@ mesh: {
   colorScale: 1.5
   radius: 0.9
   octaves: 1
-  persistence: 1
+  persistence: 3
   scale: 1
   mag: 1.5
 }
