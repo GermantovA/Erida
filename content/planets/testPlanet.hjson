@@ -1,0 +1,31 @@
+parent: erida
+orbitRadius: 3
+camRadius: -0.7
+minZoom: 1
+bloom: true
+alwaysUnlocked: true
+updateLighting: false
+atmosphereRadIn: 0
+atmosphereRadOut: 0
+drawOrbit: false
+orbitTime: 15
+defaultEnv: 14
+defaultCore: simple-core
+clearSectorOnLose: true
+
+mesh: {
+  type: NoiseMesh
+  divisions: 3
+  radius: 0.1
+  planet: JustATest
+  color1: 000000
+  color2: FFFFFF
+  octaves: 4
+  persistence: 0.2
+  scale: 0.99
+  mag: 5
+  coct: 4
+  cper: 1.4
+  cscl: 0.3
+  cthresh: 0.01
+}
