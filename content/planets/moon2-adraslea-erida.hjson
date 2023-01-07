@@ -12,14 +12,15 @@ orbitTime: 15
 defaultEnv: 14
 defaultCore: simple-core
 clearSectorOnLose: true
+iconColor: 957266
 
 mesh: {
   type: NoiseMesh
   divisions: 3
   radius: 0.1
   planet: adraslea
-  color1: 000000
-  color2: FFFFFF
+  color1: 957266
+  color2: 695955
   octaves: 4
   persistence: 0.2
   scale: 0.999
