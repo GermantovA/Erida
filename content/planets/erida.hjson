@@ -5,7 +5,7 @@ mesh: {
   divisions: 4
   color1: efcdb8
   color2: 4b4d4b
-  colorScale: 3
+  colorScale: 2
   radius: 0.8
   octaves: 4
   persistence: 1
@@ -18,7 +18,7 @@ generator: {
 }
 orbitSpacing: 12
 orbitRadius: 25
-raradius: 0.8
+raradius: 0.1
 minZoom: 1
 maxZoom: 4
 drawOrbit: true
