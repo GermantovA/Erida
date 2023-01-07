@@ -24,14 +24,14 @@ shoot: {
 ammoTypes: {
     rubidium: {
         damage: 10
-        speed: 1
+        speed: 4
         height: 15
         width: 10
         lifetime: 40
     }
     foringor: {
         damage: 12
-        speed: 7
+        speed: 6
         height: 15
         width: 10
         lifetime: 40
