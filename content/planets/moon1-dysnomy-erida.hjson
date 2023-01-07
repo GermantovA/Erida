@@ -12,14 +12,14 @@ orbitTime: 15
 defaultEnv: 14
 defaultCore: simple-core
 clearSectorOnLose: true
-iconColor: 605B5A
+iconColor: 726D6B
 mesh: {
   type: NoiseMesh
   divisions: 3
   radius: 0.1
   planet: dysnomy
-  color1: 000000
-  color2: FFFFFF
+  color1: 726D6B
+  color2: 595453
   octaves: 4
   persistence: 0.2
   scale: 0.99
