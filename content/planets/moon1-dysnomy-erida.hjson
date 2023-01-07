@@ -12,7 +12,7 @@ orbitTime: 15
 defaultEnv: 14
 defaultCore: simple-core
 clearSectorOnLose: true
-
+iconColor: 605B5A
 mesh: {
   type: NoiseMesh
   divisions: 3
