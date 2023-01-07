@@ -4,6 +4,7 @@ size: 5
 type: BurstDrill
 category: production
 research: rubidium-cliff-crusher
+researchCostMultiplier: 0.08
 tier: 2
 drillTime: 625
 itemCapacity: 100
