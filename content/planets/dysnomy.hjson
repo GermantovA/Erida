@@ -17,7 +17,7 @@ mesh: {
   type: NoiseMesh
   divisions: 3
   radius: 0.1
-  planet: JustATest
+  planet: dysnomy
   color1: 000000
   color2: FFFFFF
   octaves: 4
