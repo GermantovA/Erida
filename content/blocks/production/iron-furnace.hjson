@@ -1,5 +1,5 @@
 requirements: [
-  scrap/45
+  iron/45
 ]
 category: crafting
 type: GenericCrafter
