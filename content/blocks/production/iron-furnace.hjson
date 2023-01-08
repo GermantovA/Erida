@@ -1,13 +1,13 @@
 requirements: [
-  scrap/30
+  scrap/45
 ]
 category: crafting
 type: GenericCrafter
+health: 100
 craftEffect: smeltsmoke
 outputItem: iron/5
-craftTime: 50
+craftTime: 150
 size: 1
-health: 40
 hasPower: false
 drawer: {
     type: DrawMulti
@@ -20,11 +20,9 @@ drawer: {
 ambientSound: smelter
 ambientSoundVolume: 0.15
 consumes: {
-  items: {
-    items: [
-      scrap/10
+  items: [
+    scrap/10
     ]
-  }
 }
 research: mini-core
-researchCostMultiplier: 0.1
+researchCostMultiplier: 0.3
