@@ -1,0 +1,18 @@
+Type: CoreBlock
+health: 1000
+itemCapacity: 150
+size: 2
+category: effect
+unitType: particle
+unitCapModifier: 4
+thrusterLength: 15
+requirements: [
+  scrap/150
+]
+research: {
+    root: true
+    name: dysnomy
+    requiresUnlock: false
+    planet: moon1-dysnomy-erida
+}
+alwaysUnlocked: true
