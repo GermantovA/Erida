@@ -1,10 +1,12 @@
 # Erida
-Mindustry mod that adds a new planet 'Erida'.
-I'm just a Russian developer with free time.
+Mindustry mod that adds a new planet with 2 moons
 
-In development...
+Developement progress:
 
+Erida - 55% done
+Dysomy - 1% done
+Adraslea - 1% done
 
 Languages:
 
-English,Русский
+English, Русский
