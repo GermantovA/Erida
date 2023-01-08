@@ -2,7 +2,7 @@ Type: CoreBlock
 research: {
   root: true
   name: Dysnomy
-  planet: moon1-dysnomy-erida
+  planet: dysnomy
   requiresUnlock: false
 }
 category: effect
