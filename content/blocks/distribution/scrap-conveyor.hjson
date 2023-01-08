@@ -3,7 +3,6 @@ type: StackConveyor
 planet: moon1-dysnomy-erida
 
 research: mini-core
-researchCostMultiplier: 0.1
 
 health: 15
 underBullets: true
