@@ -1,0 +1,19 @@
+research: {
+  root: true
+  name: Dysnomy
+  requiresUnlock: false
+}
+alwaysUnlocked: true
+
+health: 1000
+size: 2
+itemCapacity: 100
+requirements: [
+ iron/100
+ rubidium/50
+ ]
+
+isFirstTier: true
+unitType: spark
+
+squareSprite: false
