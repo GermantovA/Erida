@@ -5,7 +5,7 @@ Developement progress:
 
 Erida - 55% done
 
-Dysomy - 1% done
+Dysnomy - 1% done
 
 Adraslea - 1% done
 
