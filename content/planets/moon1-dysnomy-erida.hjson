@@ -10,7 +10,7 @@ atmosphereRadOut: 0
 drawOrbit: false
 orbitTime: 15
 defaultEnv: 14
-defaultCore: simple-core
+defaultCore: mini-core
 clearSectorOnLose: true
 iconColor: 726D6B
 generator: {
