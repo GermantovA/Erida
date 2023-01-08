@@ -3,6 +3,7 @@ research: {
   name: Dysnomy
   requiresUnlock: false
 }
+category: effect
 alwaysUnlocked: true
 
 health: 1000
