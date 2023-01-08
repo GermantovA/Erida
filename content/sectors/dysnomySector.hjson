@@ -2,5 +2,5 @@ planet: moon1-dysnomy-erida
 research: mini-core
 alwaysUnlocked: true
 difficulty: 4
-sector: 1
+sector: 0
 captureWave: 15
