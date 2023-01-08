@@ -28,4 +28,4 @@ consumes: {
   }
 }
 research: mini-core
-researchCostMultiplier: 0
+researchCostMultiplier: 0.1
