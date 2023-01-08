@@ -13,7 +13,6 @@ defaultEnv: 14
 defaultCore: mini-core
 clearSectorOnLose: true
 iconColor: 726D6B
-sectorSize: 1
 generator: {
 
 }
