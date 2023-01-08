@@ -2,7 +2,7 @@ Type: CoreBlock
 research: {
   root: true
   name: Dysnomy
-  planet: dysnomy
+  planet: moon1-dysnomy-erida
   requiresUnlock: false
 }
 category: effect
@@ -17,6 +17,6 @@ requirements: [
  ]
 
 isFirstTier: true
-unitType: spark
+unitType: beta
 
 squareSprite: false
