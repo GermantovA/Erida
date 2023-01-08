@@ -10,7 +10,7 @@ solid: false
 
 size: 1
 requirements: [
- scrap/2
+ iron/2
  ]
 
 itemCapacity: 5
