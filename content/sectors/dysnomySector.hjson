@@ -1,6 +1,6 @@
-planet: moon1-dysnomy-erida
-research: mini-core
-alwaysUnlocked: true
-difficulty: 4
 sector: 0
-captureWave: 15
+planet: moon1-dysnomy-erida
+captureWave: 5
+difficulty: 1
+research: simple-core
+alwaysUnlocked: true
