@@ -1,0 +1,13 @@
+planet: moon1-dysnomy-erida
+health: 100
+size: 1
+type: BurstDrill
+category: production
+research: mini-core
+researchCostMultiplier: 0.08
+tier: 2
+drillTime: 100
+itemCapacity: 10
+requirements: [
+  scrap/15
+  ]
