@@ -1,0 +1,19 @@
+category: distribution
+type: StackConveyor
+
+research: mini-core
+researchCostMultiplier: 0
+
+health: 15
+underBullets: true
+solid: false
+
+size: 1
+requirements: [
+ scrap/2
+ ]
+
+itemCapacity: 5
+outputRouter: false
+
+speed: 0.065
