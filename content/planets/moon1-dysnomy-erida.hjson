@@ -21,7 +21,8 @@ generator: {
 orbitSpacing: 12
 orbitRadius: 25
 raradius: 0.8
-minZoom: 1
+minZoom: 0.1
+maxZoom: 0.3
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
