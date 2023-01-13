@@ -32,3 +32,6 @@ mesh: {
   cscl: 0.3
   cthresh: 0.01
 }
+hiddenItems: [
+    scrap, copper, lead, graphite, coal, titanium, thorium, silicon, plastanium, sand, metaglass, beryllium, tungsten, carbide
+]
