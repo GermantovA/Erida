@@ -8,8 +8,8 @@ mesh: {
   radius: 0.1
   octaves: 4
   persistence: 1
-  scale: 1
-  mag: 1.5
+  scale: 0.999
+  mag: 5
   coct: 4
   cper: 1.4
   cscl: 0.3
@@ -19,10 +19,11 @@ generator: {
 
 }
 orbitSpacing: 12
-orbitRadius: 25
+orbitRadius: 3
 raradius: 0.8
 minZoom: 0.1
 maxZoom: 0.3
+camRadius: -0.7
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
