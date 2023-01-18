@@ -5,6 +5,7 @@ Version: 1.0 Beta
 
 Next updates:
 
+
 1.1 Version (Mini update)
 
 •10+ Factories
@@ -12,6 +13,7 @@ Next updates:
 •New sector
 
 •New unit
+
 
 
 1.2 Version (Units update)
