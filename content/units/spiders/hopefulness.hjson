@@ -1,0 +1,45 @@
+type: legs
+health: 900
+research: faith
+researchCostMultiplier: 0.2
+isEnemy: true
+mineWalls: true
+legLength: 18
+legCount: 6
+mineFloor: true
+flying: false
+buildSpeed: 0.86
+accel: 0.04
+drag: 0.12
+mineSpeed: 1
+mineTier: 1
+speed: 0.9
+rotateSpeed: 2
+armor: 5
+itemCapacity: 10
+outlineColor: 000000
+weapons: [
+  {
+    name: none
+    x: 0
+    y: 0
+    mirror: false
+    shootEffect: sparkShoot
+    smokeEffect: shootSmallSmoke
+    reload: 15
+    inaccuracy: 9
+    bullet: {
+      type: MissileBulletType
+      damage: 10
+      splashDamage: 9
+      splashDamageRadius: 7
+      sideAngle: 45
+      sideWidth: 4
+      sideLength: 10
+      hitEffect: blastExplosion
+      despawnEffect: blastExplosion
+      lifeTime: 190
+      shootSound: missile
+}
+}
+]
