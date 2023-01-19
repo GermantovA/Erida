@@ -1,0 +1,53 @@
+type: mech
+outlineColor: 000000
+mechLegColor: 3e3641
+
+health:  500
+armor: 9
+hitSize: 9
+
+speed: 1.0
+rotateSpeed: 2.6
+accel: 0.15
+
+itemCapacity: 0
+
+weapons: [
+ {
+  type: Weapon
+  name: sunset-weapon
+  
+  top: false
+  x: 0
+  y: 0
+  shootY: 2
+  shootX: 4.8
+  
+  mirror: true
+  rotate: false
+  shootCone: 10
+  inaccuracy: 0
+  reload: 10
+  targetInterval: 1
+  targetSwitchInterval: 1
+  cooldownTime: 150
+  
+  bullet: {
+   type: BasicBulletType
+   width: 9
+   height: 12
+   
+   damage: 10
+   
+   speed: 2.7
+   lifetime: 45
+   
+   trailWidth: 1
+   trailLength: 5
+   }
+  }
+ ]
+
+
+research: sunrise
+researchCostMultiplier: 0.2
