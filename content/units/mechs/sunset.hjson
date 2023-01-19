@@ -50,4 +50,4 @@ weapons: [
 
 
 research: sunrise
-researchCostMultiplier: 0.2
+alwaysUnlocked: true
