@@ -19,7 +19,7 @@ weapons: [
   
   top: false
   x: 0
-  y: -1
+  y: -3
   shootY: 2
   shootX: 4.8
   
