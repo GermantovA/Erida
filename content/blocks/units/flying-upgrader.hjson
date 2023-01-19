@@ -1,0 +1,29 @@
+type: Reconstructor
+size: 3
+health: 500
+constructTime: 2000
+upgrades: [
+  [spark, light]
+]
+consumes: {
+power: 1.890
+liquid:{
+    liquid: azious
+    amount: 3.16
+}
+items:{
+  items: [
+  rubidium/175
+  leticen/120
+  foringor/100
+  ]
+}
+}
+category: units
+research: spark
+requirements: [
+  rubidium/500
+  leticen/350
+  foringor/200
+  kevlar/100
+]
