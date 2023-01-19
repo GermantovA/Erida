@@ -20,7 +20,7 @@ items:{
 }
 }
 category: units
-research: sunset
+research: sunrise
 requirements: [
   rubidium/500
   leticen/350
