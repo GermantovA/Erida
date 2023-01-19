@@ -1,7 +1,7 @@
 type: legs
 health: 900
 research: faith
-researchCostMultiplier: 0.2
+alwaysUnlocked: true
 isEnemy: true
 mineWalls: true
 legLength: 18
