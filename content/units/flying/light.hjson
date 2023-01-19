@@ -1,7 +1,7 @@
 type: flying
 health: 450
 research: spark
-researchCostMultiplier: 0.2
+alwaysUnlocked: true
 controller: BuilderAI
 defaultController: BuilderAI
 isEnemy: false
