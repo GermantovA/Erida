@@ -26,11 +26,11 @@ weapons: [
     mirror: false
     shootEffect: sparkShoot
     smokeEffect: shootSmallSmoke
-    reload: 15
+    reload: 30
     inaccuracy: 9
     bullet: {
       type: MissileBulletType
-      damage: 10
+      damage: 55
       splashDamage: 9
       splashDamageRadius: 7
       sideAngle: 45
