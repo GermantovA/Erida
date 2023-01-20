@@ -32,7 +32,7 @@ consumes: {
     loelo/10
     rubidium/5
     ]
-  liquid: [
+  liquids: [
     usoritel/2
     ]
 }
