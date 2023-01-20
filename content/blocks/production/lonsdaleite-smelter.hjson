@@ -9,7 +9,7 @@ requirements: [
 category: crafting
 type: GenericCrafter
 craftEffect: smeltsmoke
-outputItem: lonsdaleite
+outputItem: lonsdaleite/10
 craftTime: 100
 size: 3
 hasPower: false
