@@ -1,0 +1,32 @@
+requirements: [
+  rubidium/200
+  leticen/100
+  foringor/50
+  kevlar/35
+]
+category: crafting
+type: GenericCrafter
+craftEffect: smeltsmoke
+outputLiquid: azious/0.2
+craftTime: 150
+size: 3
+hasPower: false
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+    ]
+}
+ambientSound: smelter
+ambientSoundVolume: 0.15
+health: 100
+consumes: {
+  items: [
+    kevlar/10
+    foringor/5
+    ]
+}
+research: sand-filter
+researchCostMultiplier: 0.3
