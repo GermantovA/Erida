@@ -22,7 +22,7 @@ consumes: {
   }
  }
 range: 50
-healPercent: 15
+healPercent: 45
 reload: 125
 drawer: {
  type: DrawMulti
