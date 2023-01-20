@@ -24,7 +24,7 @@ weapons: [
     x: 0
     y: 0
     mirror: false
-    shootEffect: sparkShoot
+    shootEffect: shootSmallFlame
     smokeEffect: shootSmallSmoke
     reload: 30
     inaccuracy: 9
