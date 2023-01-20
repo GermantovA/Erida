@@ -20,26 +20,17 @@ itemCapacity: 10
 outlineColor: 000000
 weapons: [
   {
-    name: none
-    x: 0
-    y: 0
-    mirror: false
-    shootEffect: shootSmallFlame
-    smokeEffect: shootSmallSmoke
-    reload: 30
-    inaccuracy: 9
-    bullet: {
-      type: BasicBulletType
-      damage: 55
-      splashDamage: 9
-      splashDamageRadius: 7
-      sideAngle: 45
-      sideWidth: 4
-      sideLength: 10
-      hitEffect: blastExplosion
-      despawnEffect: blastExplosion
-      lifeTime: 190
-      shootSound: missile
+        x: 0
+        y: 3
+        mirror: false
+        reload: 300
+        xRand: 2
+        bullet: {
+            type: BasicBulletType
+            lifetime: 0
+            speed: 0
+            damage: 0
+            spawnUnit: hopefulness-missile
 }
 }
 ]
