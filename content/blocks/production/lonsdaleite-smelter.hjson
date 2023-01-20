@@ -1,0 +1,40 @@
+requirements: [
+  osmium/200
+  kevlar/150
+  foringor/125
+  rubidium/100
+  loelo/75
+  leticen/50
+]
+category: crafting
+type: GenericCrafter
+craftEffect: smeltsmoke
+outputItem: lonsdaleite
+craftTime: 100
+size: 3
+hasPower: false
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+    ]
+}
+ambientSound: smelter
+ambientSoundVolume: 0.15
+health: 400
+consumes: {
+  items: [
+    osmium/10
+    kevlar/10
+    foringor/10
+    loelo/10
+    rubidium/5
+    ]
+  liquid: [
+    usoritel/2
+    ]
+}
+research: azious-mixer
+researchCostMultiplier: 0.4
