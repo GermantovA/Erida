@@ -1,0 +1,40 @@
+category: effect
+type: MendProjector
+research: energy-node
+health: 300
+size: 2
+requirements: [
+ rubidium/115
+ letucen/100
+ loelo/75
+ foringor/10
+ ]
+
+hasItems: false
+hasLiquids: true
+hasPower: true
+liquidCapacity: 40
+consumes: {
+ power: 0.96
+ liquid: {
+  liquid: azious
+  amount: 1.12
+  }
+ }
+range: 50
+healPercent: 15
+reload: 125
+drawer: {
+ type: DrawMulti
+ drawers: [
+  {
+   type: DrawLiquidTile
+   drawLiquid: azious
+   padding: 4
+   }
+  {
+   type: DrawDefault
+   }
+  ]
+}
+squareSprite: false
