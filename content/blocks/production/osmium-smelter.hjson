@@ -1,0 +1,32 @@
+requirements: [
+  kevlar/150
+  foringor/125
+  rubidium/100
+]
+category: crafting
+type: GenericCrafter
+craftEffect: smeltsmoke
+outputItem: osmium
+craftTime: 150
+size: 2
+hasPower: false
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+            type: DrawDefault
+        }
+    ]
+}
+ambientSound: smelter
+ambientSoundVolume: 0.15
+health: 150
+consumes: {
+  items: [
+    kevlar/10
+    foringor/5
+    loelo/5
+    ]
+}
+research: sand-filter
+researchCostMultiplier: 0.6
