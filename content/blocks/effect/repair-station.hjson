@@ -5,7 +5,7 @@ health: 300
 size: 2
 requirements: [
  rubidium/115
- letucen/100
+ leticen/100
  loelo/75
  foringor/10
  ]
